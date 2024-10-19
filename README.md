@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Mohamed Nashaat and I'm a web develpoer, from Egypt. i'm graduated from faculty of computers and artificial intelligence at helawan university 2024</p>
+<p align="left">My name is Mohamed Nashaat and I'm a web develpoer, from Egypt.I'm graduated from faculty of Computers and Artificial intelligence at Helwan university 2024</p>
 
 ###
 
